@@ -17,7 +17,7 @@ android {
     defaultConfig {
         applicationId "com.afwsamples.testdpc"
         minSdkVersion 21
-        targetSdkVersion 26
+        targetSdkVersion 25
         versionCode versionMajor * 1000 + versionMinor * 100 + versionBuild
         versionName "${versionMajor}.${versionMinor}.${versionBuild}"
     }
